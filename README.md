@@ -6,7 +6,8 @@ This is a simple yet powerful To-Do List app built using **SwiftUI**. The app al
 
 # Screenshots
 
-![image](Goal Setter.jpgz)
+![image](https://github.com/RenuckaM/TODO_List_SwiftUI/blob/main/Goal%20Setter.jpg?raw=true![image](https://github.com/user-attachments/assets/01ab065b-be48-431c-8d8a-ee6914d346f3)
+)
 
 ## Features
 
