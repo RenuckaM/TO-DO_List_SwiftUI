@@ -2,6 +2,8 @@
 
 This is a simple yet powerful To-Do List app built using **SwiftUI**. The app allows users to add, edit, delete, and manage tasks with reminders, due dates, and priorities (High, Medium, Low). The app also features task completion toggling, allowing users to mark tasks as completed or incomplete easily.
 
+# Screenshots
+
 ## Features
 
 - **Add New Tasks**: Users can easily create new tasks by typing in the task description, setting a due date and time, assigning a priority (High, Medium, Low), and optionally setting a reminder.
