@@ -1,3 +1,5 @@
+<img src="https://swift.org/assets/images/swift.svg" alt="Swift logo" height="70" >
+
 # GOAL SETTER - TO-DO List
 
 This is a simple yet powerful To-Do List app built using **SwiftUI**. The app allows users to add, edit, delete, and manage tasks with reminders, due dates, and priorities (High, Medium, Low). The app also features task completion toggling, allowing users to mark tasks as completed or incomplete easily.
