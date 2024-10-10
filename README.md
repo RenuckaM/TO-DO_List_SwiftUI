@@ -6,6 +6,8 @@ This is a simple yet powerful To-Do List app built using **SwiftUI**. The app al
 
 # Screenshots
 
+![image](Goal Setter.jpgz)
+
 ## Features
 
 - **Add New Tasks**: Users can easily create new tasks by typing in the task description, setting a due date and time, assigning a priority (High, Medium, Low), and optionally setting a reminder.
