@@ -63,3 +63,6 @@ This is a simple yet powerful To-Do List app built using **SwiftUI**. The app al
 - Swift 5.0+
 - SwiftUI Framework
 
+## Contributing
+
+Feel free to open an issue or submit a pull request if you'd like to contribute.
